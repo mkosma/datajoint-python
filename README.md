@@ -4,6 +4,7 @@
 [![PyPI version](https://badge.fury.io/py/datajoint.svg)](http://badge.fury.io/py/datajoint)
 [![Requirements Status](https://requires.io/github/datajoint/datajoint-python/requirements.svg?branch=master)](https://requires.io/github/datajoint/datajoint-python/requirements/?branch=master)
 [![Slack](https://img.shields.io/badge/slack-chat-green.svg)](https://datajoint.slack.com/)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmkosma%2Fdatajoint-python.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmkosma%2Fdatajoint-python?ref=badge_shield)
 
 # Welcome to DataJoint for Python!
 DataJoint for Python is a framework for scientific workflow management based on relational principles. DataJoint is built on the foundation of the relational data model and prescribes a consistent method for organizing, populating, computing, and querying data.
@@ -165,3 +166,6 @@ HOST_GID=1000
 * Launch a notebook i.e. `New > Python 3`
 
 </details>
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmkosma%2Fdatajoint-python.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmkosma%2Fdatajoint-python?ref=badge_large)
